@@ -8,7 +8,8 @@
 <body>
     <h1>웹 프로그래밍 과제
         <h2>2주차 과제</h2>
-        <ol>
+        <ol
+            <li><a href = "https://minsuk36.github.io/web_programing/2%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C/OpenChallenge2.html">OpenChallenge2</a></li>
             <li><a href = "https://minsuk36.github.io/web_programing/2%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C/2.1webprograming.html">실습문제 1</a></li>
             <li><a href = "https://minsuk36.github.io/web_programing/2%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C/2.2webprograming.html">실습문제 2</a></li>
             <li><a href = "https://minsuk36.github.io/web_programing/2%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C/2.3webprograming.html">실습문제 3</a></li>
