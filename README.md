@@ -42,7 +42,7 @@
             <li><a href = "https://minsuk36.github.io/web_programing/3%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/5.4-2webprograming.html">실습문제 4-2</a></li>
             <li><a href = "https://minsuk36.github.io/web_programing/3%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/5.5webprograming.html">실습문제 5</a></li>
             <li><a href = "https://minsuk36.github.io/web_programing/3%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/5.6webprograming.html">실습문제 6</a></li>
-            <li><a href = "https://minsuk36.github.io/web_programing/3%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/5.7webprograming.html">실습문제 7</a></li>
+            <li><a href = "https://minsuk36.github.io/web_programing/3%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/5.7webprogramng.html">실습문제 7</a></li>
             <li><a href = "https://minsuk36.github.io/web_programing/3%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/5.8webprograming.html">실습문제 8</a></li>
            <li><a href = "https://minsuk36.github.io/web_programing/3%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/5.9webprograming.html">실습문제 9</a></li>
            <li><a href = "https://minsuk36.github.io/web_programing/3%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/5.8webprograming.html">실습문제 10</a></li>
