@@ -23,13 +23,13 @@
         <h2>3주차 과제</h2>
        <ol>
             <li><a href = "https://minsuk36.github.io/web_programing/3%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/4.1webprograming.html">실습문제 1</a></li>
-            <li><a href = "https://minsuk36.github.io/web_programing/3%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/4.2webprograming.html">실습문제 1</a></li>
-            <li><a href = "https://minsuk36.github.io/web_programing/3%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/4.3webprograming.html">실습문제 1</a></li>
-            <li><a href = "https://minsuk36.github.io/web_programing/3%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/4.4webprograming.html">실습문제 1</a></li>
-            <li><a href = "https://minsuk36.github.io/web_programing/3%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/4.5webprograming.html">실습문제 1</a></li>
-            <li><a href = "https://minsuk36.github.io/web_programing/3%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/4.6webprograming.html">실습문제 1</a></li>
-            <li><a href = "https://minsuk36.github.io/web_programing/3%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/4.7webprograming.html">실습문제 1</a></li>
-            <li><a href = "https://minsuk36.github.io/web_programing/3%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/4.8webprograming.html">실습문제 1</a></li>
+            <li><a href = "https://minsuk36.github.io/web_programing/3%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/4.2webprograming.html">실습문제 2</a></li>
+            <li><a href = "https://minsuk36.github.io/web_programing/3%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/4.3webprograming.html">실습문제 3</a></li>
+            <li><a href = "https://minsuk36.github.io/web_programing/3%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/4.4webprograming.html">실습문제 4</a></li>
+            <li><a href = "https://minsuk36.github.io/web_programing/3%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/4.5webprograming.html">실습문제 5</a></li>
+            <li><a href = "https://minsuk36.github.io/web_programing/3%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/4.6webprograming.html">실습문제 6</a></li>
+            <li><a href = "https://minsuk36.github.io/web_programing/3%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/4.7webprograming.html">실습문제 7</a></li>
+            <li><a href = "https://minsuk36.github.io/web_programing/3%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/4.8webprograming.html">실습문제 8</a></li>
       </ol>
             
          
