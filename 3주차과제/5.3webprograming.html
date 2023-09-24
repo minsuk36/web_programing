@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>오디오 재생 리스트</title>
+    <link href="b3.css" type="text/css" rel="stylesheet">
+    <style>
+        body {
+    background-color: white;
+}
+h1 {
+    color: black;
+}
+.listbox {
+    display:flex ;
+}
+div {
+    font-size: 20px;
+    color : black;
+}
+.numbox span{
+    border : solid 2px greenyellow;
+}
+.name {
+    width : 300px;
+    border-bottom: solid 1px ;
+}
+.clickbox {
+    font-size: 16px;
+    border: solid 1px;
+    margin-left: 5px;
+}
+#stop:hover {
+    color :magenta;
+    border-color: black;
+}
+    </style>
+</head>
+<body>
+    <h1>오디오 재생 리스트</h1>
+    <hr>
+    <div class="listbox">
+        <div class="numbox"><span>1</span></div>
+        <div class="name"><strong>&nbsp;애국가</strong></div>
+        <input type="button" class="clickbox" value="재생">
+        <input type="button" class="clickbox" id="stop" value="중지">
+    </div>
+    <div class="listbox">
+        <div class="numbox"><span>2</span></div>
+        <div class="name"><strong>&nbsp;Moon Glow</strong></div>
+        <input type="button" class="clickbox" value="재생">
+        <input type="button" class="clickbox" id="stop" value="중지">
+    </div>
+    <div class="listbox">
+        <div class="numbox"><span>3</span></div>
+        <div class="name"><strong>&nbsp;Embraceable You</strong></div>
+        <input type="button" class="clickbox" value="재생">
+        <input type="button" class="clickbox" id="stop" value="중지">
+    </div>
+    
+</body>
+</html>

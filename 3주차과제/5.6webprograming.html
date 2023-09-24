@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>animation</title>
+    <link href="b6_1.css" type="text/css" rel="stylesheet">
+    <style>
+        img {
+    width:100px;
+    height: auto;
+    animation-name : rotateimg;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+@keyframes rotateimg {
+    100% {
+        transform: rotate(360deg);
+    }
+}
+    </style>
+</head>
+<body>
+    <h1>어지러워요</h1>
+    <hr>
+    <img src="../spongebob.png">
+</body>
+</html>
