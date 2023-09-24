@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>설문조사</title>
+
+    <link href="survey4.css" type="text/css" rel="stylesheet">
+    <style>
+        body {
+    background-color: aliceblue;
+    color: black;
+}
+
+header>h1 {
+    text-align: center;
+    color: brown;
+}
+
+hr {
+    height: 2px;
+    background-color: black;
+    ;
+}
+
+header>p {
+    font-size: 16px;
+    font-family: "휴먼편지체"
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    background-color: violet;
+    padding-left: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+div>p>strong {
+    color: blue;
+    font-size: 20px;
+}
+
+div>p {
+    font-family: "휴먼편지체";
+}
+
+input>.cb {
+    border: solid 10px blue;
+}
+
+.tb {
+    width: 600px;
+    height: 200px;
+}
+
+#msg>strong {
+    vertical-align: bottom;
+}
+
+footer {
+    background-color: orange;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+    </style>
+</head>
+<body>
+    <header>
+        <h1>설문지</h1>
+        <p>&nbsp;&nbsp;소프트웨어 기술에 대한 의견을 듣습니다. 많은 참여 부탁드립니다.</p>
+    </header>
+    <hr>
+    <div>
+        <p><strong>학년</strong>
+            <label><input type="radio" name="grade" class="input_text"> 1학년 </label>
+            <label><input type="radio" name="grade" class="input_text"> 2학년 </label>
+            <label><input type="radio" name="grade" class="input_text"> 3학년 </label>
+            <label><input type="radio" name="grade" class="input_text"> 4학년 </label>
+        </p>
+
+        <p><strong>성별</strong>
+            <label><input type="radio" name="gender"> 남 </label>
+            <label><input type="radio" name="gender"> 여 </label>
+        </p>
+
+        <p><strong>관심 분야</strong> 
+            <select>
+                <option>모바일 소프트웨어</option>
+                <option>데스크톱</option>
+                <option>프론트엔드</option>
+                <option>벡엔드
+                </option>
+            </select>
+        </p>
+
+        <p><strong>진로(다중 선택)</strong>
+            <label><input type="checkbox" class="cb"> 개발 </label>
+            <label><input type="checkbox" class="cb"> 기획 </label>
+            <label><input type="checkbox" class="cb"> 영업 </label>
+            <label><input type="checkbox" class="cb"> 창업 </label>
+        </p>
+
+        <p id="msg"><strong>남기고 싶은 말</strong>
+            <textarea class="tb" placeholder="글을 남겨주세요"></textarea>
+        </p>
+    </div>
+    <footer>
+        <p>Copyright 2023 by Covi</p>
+    </footer>
+</body>
+</html>
