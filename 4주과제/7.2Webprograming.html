@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var n = Array(5);
+        for(a=0;a<5;a++){
+            n[a]=prompt("정수입력");
+            
+        }
+        document.write("<h3>정수 5개입력받아 역순으로 출력</h3>");
+        document.write("<hr>");
+        for(a=0;a<5;a++){
+        document.write(n[a]+" ");
+        }
+        document.write("<br>");
+        n.reverse()
+        for(a=0;a<5;a++){
+            document.write(n[a]+" ");
+        }
+    </script>
+</body>
+</html>
