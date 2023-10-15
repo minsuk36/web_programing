@@ -6,7 +6,7 @@
    
 </head>
 <body>
-    <h1>웹 프로그래밍 과제
+    <h1>웹 프로그래밍 과제</h1>h1>
         <h2>2주차 과제</h2>
         <ol>
             <li><a href = "https://minsuk36.github.io/web_programing/2%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C/OpenChallenge2.html">OpenChallenge2</a></li>
@@ -50,7 +50,7 @@
       </ol>
       <h3><a href = "https://minsuk36.github.io/web_programing/3%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/MyIntroduce.html">자기소개</a></h3><br>
 
-        <h2>4주차과제</h2><br>
+        <h2>4주차과제</h2>
         <ol>
         <h3>6장</h3><br>
         <li><a href = "https://minsuk36.github.io/web_programing/4%EC%A3%BC%EA%B3%BC%EC%A0%9C/6.1Webprograming.html">실습문제 1-1.1</a></li>
@@ -66,8 +66,8 @@
         </ol>
         <h3>7장</h3><br>
         <ol>
-        <li><a href = "https://minsuk36.github.io/web_programing/4%EC%A3%BC%EA%B3%BC%EC%A0%9C/7.1Webprograming.html">실습문제1</a></li>
-        <li><a href = "https://minsuk36.github.io/web_programing/4%EC%A3%BC%EA%B3%BC%EC%A0%9C/7.2Webprograming.html">실습문제2</a></li>
+         <li><a href = "https://minsuk36.github.io/web_programing/4%EC%A3%BC%EA%B3%BC%EC%A0%9C/7.1Webprograming.html">실습문제1</a></li>
+         <li><a href = "https://minsuk36.github.io/web_programing/4%EC%A3%BC%EA%B3%BC%EC%A0%9C/7.2Webprograming.html">실습문제2</a></li>
         <li><a href = "https://minsuk36.github.io/web_programing/4%EC%A3%BC%EA%B3%BC%EC%A0%9C/7.3Webprograming.html">실습문제3</a></li>
         <li><a href = "https://minsuk36.github.io/web_programing/4%EC%A3%BC%EA%B3%BC%EC%A0%9C/7.4Webprograming.html">실습문제4</a></li>
         <li><a href = "https://minsuk36.github.io/web_programing/4%EC%A3%BC%EA%B3%BC%EC%A0%9C/7.5Webprograming.html">실습문제5</a></li>
