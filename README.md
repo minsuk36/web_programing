@@ -63,7 +63,9 @@
         <li><a href = "https://minsuk36.github.io/web_programing/4%EC%A3%BC%EA%B3%BC%EC%A0%9C/6.6Webprograming.html">실습문제1-6</a></li>
         <li><a href = "https://minsuk36.github.io/web_programing/4%EC%A3%BC%EA%B3%BC%EC%A0%9C/6.7Webprograming.html">실습문제1-7</a></li>
         <li><a href = "https://minsuk36.github.io/web_programing/4%EC%A3%BC%EA%B3%BC%EC%A0%9C/6.8Webprograming.html">실습문제1-8</a></li>
+        </ol>
         <h3>7장</h3><br>
+        <ol>
         <li><a href = "https://minsuk36.github.io/web_programing/4%EC%A3%BC%EA%B3%BC%EC%A0%9C/7.1Webprograming.html">실습문제1</a></li>
         <li><a href = "https://minsuk36.github.io/web_programing/4%EC%A3%BC%EA%B3%BC%EC%A0%9C/7.2Webprograming.html">실습문제2</a></li>
         <li><a href = "https://minsuk36.github.io/web_programing/4%EC%A3%BC%EA%B3%BC%EC%A0%9C/7.3Webprograming.html">실습문제3</a></li>
