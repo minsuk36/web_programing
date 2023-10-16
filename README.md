@@ -49,7 +49,6 @@
            <li><a href = "https://minsuk36.github.io/web_programing/3%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/5.10webprograming.html">실습문제 10</a></li>
       </ol>
       <h3><a href = "https://minsuk36.github.io/web_programing/3%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/MyIntroduce.html">자기소개</a></h3><br>
-
         <h2>4주차과제</h2><br>
         <h3>6장</h3><br>
          <ol>
