@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>onmousemove</title>
+    <script>
+        window.onmousemove = function(e){
+            var box = document.getElementById("box");
+            box.style.top = e.clientY + "px";
+            box.style.left = e.clientX + "px";
+        }
+    </script>
+</head>
+<body>
+    <h3>이미지 커서 만들기</h3>
+    <hr>
+    <p>
+        마우스를 움직이면 이미지로 만든 커서가 마우스를 따라 다닙니다.
+    </p>
+    <div id="box" style="position: absolute;">
+        <img src="spade-A.png" width="30px" height="40px">
+    </div>
+</body>
+</html>
