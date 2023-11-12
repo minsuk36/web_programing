@@ -111,6 +111,8 @@
 </body>
  <h2>6주차과제</h2><br>
  <ol>
-      <li><a href = "https://minsuk36.github.io/web_programing/5%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/9.10Webprograming.html">실습문제10</a></li>
+      <li><a href = "http://jmsd0306.dothome.co.kr/request1.php">php.1문제</a></li>
+     <li><a href = "http://jmsd0306.dothome.co.kr/request2.php">php.1문제</a></li>
+     <li><a href = "http://jmsd0306.dothome.co.kr/request3.php">php.1문제</a></li>
  </ol>
 </html>
