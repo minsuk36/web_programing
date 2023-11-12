@@ -109,4 +109,8 @@
          <li><a href = "https://minsuk36.github.io/web_programing/5%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/9.10Webprograming.html">실습문제10</a></li>
         </ol>
 </body>
+ <h2>6주차과제</h2><br>
+ <ol>
+      <li><a href = "https://minsuk36.github.io/web_programing/5%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/9.10Webprograming.html">실습문제10</a></li>
+ </ol>
 </html>
