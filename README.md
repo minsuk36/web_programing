@@ -111,8 +111,9 @@
 </body>
  <h2>6주차과제</h2><br>
  <ol>
+     <li><a href = "http://jmsd0306.dothome.co.kr/write.php">개념정리</a></li>
       <li><a href = "http://jmsd0306.dothome.co.kr/request1.php">php.1문제</a></li>
-     <li><a href = "http://jmsd0306.dothome.co.kr/request2.php">php.1문제</a></li>
-     <li><a href = "http://jmsd0306.dothome.co.kr/request3.php">php.1문제</a></li>
+     <li><a href = "http://jmsd0306.dothome.co.kr/request2.php">php.2문제</a></li>
+     <li><a href = "http://jmsd0306.dothome.co.kr/request3.php">php.3문제</a></li>
  </ol>
 </html>
