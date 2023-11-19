@@ -116,4 +116,12 @@
      <li><a href = "http://jmsd0306.dothome.co.kr/request2.php">php.2문제</a></li>
      <li><a href = "http://jmsd0306.dothome.co.kr/request3.php">php.3문제</a></li>
  </ol>
+  <h2>7주차과제</h2><br>
+ <ol>
+    <li><a href = "http://jmsd0306.dothome.co.kr/1114question1.php">php.1문제</a></li>
+     <li><a href = "http://jmsd0306.dothome.co.kr/1114question2.php">php.2문제</a></li>
+     <li><a href = "http://jmsd0306.dothome.co.kr/1114question3.php">php.3문제</a></li>
+     <li><a href = "http://jmsd0306.dothome.co.kr/1114question4.php">php.4문제</a></li>
+     <li><a href = "http://jmsd0306.dothome.co.kr/1115question5.php">php.5문제</a></li>
+ </ol>
 </html>
