@@ -124,4 +124,5 @@
      <li><a href = "http://jmsd0306.dothome.co.kr/1114question4.php">php.4문제</a></li>
      <li><a href = "http://jmsd0306.dothome.co.kr/1115question5.php">php.5문제</a></li>
  </ol>
+ <h2><a href ="http://jmsd0306.dothome.co.kr/">워드프레스 사이트 </a></h2>
 </html>
